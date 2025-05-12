@@ -1,8 +1,8 @@
-Great! Here's the updated **Salary Sheet Assignment** with **sample data for 10 employees** using your specified conditions:
+## **Assignment 01**
 
 ---
 
-### ✅ **Updated Assignment: Create a Salary Sheet for 10 Employees (April 2025)**
+### ✅ **Create a Salary Sheet for 10 Employees (April 2025)**
 
 | ID    | Employee Name  | Grade | Basic    | **HRA (40%)** | **Travel Allowance** | **Gross Salary** | **Total Days** | **Salary/Day** | **Days Absent** | **Days Worked** | **Net Salary** |
 | ----- | -------------- | ----- | -------- | ------------- | -------------------- | ---------------- | -------------- | -------------- | --------------- | --------------- | -------------- |
@@ -40,5 +40,3 @@ Great! Here's the updated **Salary Sheet Assignment** with **sample data for 10 
    `=Salary Per Day * Days Worked`
 
 ---
-
-
