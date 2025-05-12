@@ -1,0 +1,44 @@
+Great! Here's the updated **Salary Sheet Assignment** with **sample data for 10 employees** using your specified conditions:
+
+---
+
+### ✅ **Updated Assignment: Create a Salary Sheet for 10 Employees (April 2025)**
+
+| ID    | Employee Name  | Grade | Basic    | **HRA (40%)** | **Travel Allowance** | **Gross Salary** | **Total Days** | **Salary/Day** | **Days Absent** | **Days Worked** | **Net Salary** |
+| ----- | -------------- | ----- | -------- | ------------- | -------------------- | ---------------- | -------------- | -------------- | --------------- | --------------- | -------------- |
+| A1001 | Rohan Shetty   | A     | ₹ 50,000 | ₹ 20,000      | ₹ 5,000              | ₹ 75,000         | 30             | ₹ 2,500.00     | 2               | 28              | ₹ 70,000.00    |
+| A1002 | Sneha Patil    | B     | ₹ 40,000 | ₹ 16,000      | ₹ 5,000              | ₹ 61,000         | 30             | ₹ 2,033.33     | 1               | 29              | ₹ 59,000.67    |
+| A1003 | Amit Sharma    | C     | ₹ 35,000 | ₹ 14,000      | ₹ 3,500              | ₹ 52,500         | 30             | ₹ 1,750.00     | 0               | 30              | ₹ 52,500.00    |
+| A1004 | Meena Joseph   | A     | ₹ 55,000 | ₹ 22,000      | ₹ 5,000              | ₹ 82,000         | 30             | ₹ 2,733.33     | 3               | 27              | ₹ 73,799.91    |
+| A1005 | Rajeev Menon   | B     | ₹ 45,000 | ₹ 18,000      | ₹ 5,000              | ₹ 68,000         | 30             | ₹ 2,266.67     | 1               | 29              | ₹ 65,733.33    |
+| A1006 | Farah Khan     | C     | ₹ 38,000 | ₹ 15,200      | ₹ 3,500              | ₹ 56,700         | 30             | ₹ 1,890.00     | 2               | 28              | ₹ 52,920.00    |
+| A1007 | Ankit Verma    | A     | ₹ 60,000 | ₹ 24,000      | ₹ 5,000              | ₹ 89,000         | 30             | ₹ 2,966.67     | 0               | 30              | ₹ 89,000.00    |
+| A1008 | Nisha Rao      | B     | ₹ 42,000 | ₹ 16,800      | ₹ 5,000              | ₹ 63,800         | 30             | ₹ 2,126.67     | 2               | 28              | ₹ 59,546.76    |
+| A1009 | Vinay Reddy    | C     | ₹ 33,000 | ₹ 13,200      | ₹ 3,500              | ₹ 49,700         | 30             | ₹ 1,656.67     | 3               | 27              | ₹ 44,730.09    |
+| A1010 | Priya Deshmukh | B     | ₹ 48,000 | ₹ 19,200      | ₹ 5,000              | ₹ 72,200         | 30             | ₹ 2,406.67     | 1               | 29              | ₹ 69,793.33    |
+
+---
+
+### 📌 **Excel Formulas You Should Use:**
+
+1. **HRA (40% of Basic)**
+   `=Basic * 40%`
+
+2. **Travel Allowance**
+   `=IF(Grade="C",3500,5000)`
+
+3. **Gross Salary**
+   `=Basic + HRA + Travel Allowance`
+
+4. **Salary Per Day**
+   `=Gross Salary / 30`
+
+5. **Days Worked**
+   `=30 - Days Absent`
+
+6. **Net Salary**
+   `=Salary Per Day * Days Worked`
+
+---
+
+
