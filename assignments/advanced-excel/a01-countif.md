@@ -2,7 +2,7 @@
 
 #### 🎯 **Objective:**
 
-Use the `COUNTIFS` function to determine **how many stores in a specific region had sales greater than ₹1,00,000 in March**.
+Use the `COUNTIFS` function to determine sales of specific regions in specific months.
 
 ---
 
