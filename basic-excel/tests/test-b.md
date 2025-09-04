@@ -1,8 +1,6 @@
-Perfect 👍 I’ve rewritten your **Salary Sheet Test** in the same style as the improved Invoice Test:
+# ✅ Excel Test B
 
----
-
-# ✅ Excel Test: Salary Sheet Calculation – August 2025
+## Salary Sheet Calculation – August 2025
 
 ⏰ Time: 30 mins
 
@@ -47,7 +45,7 @@ Perfect 👍 I’ve rewritten your **Salary Sheet Test** in the same style as th
 
 ### 🎯 Evaluation Criteria
 
-✔ Accuracy of calculations
-✔ Correct use of ₹ currency format
-✔ Neat presentation with borders & alignment
-✔ Highlighted **Net Salary column** for readability
+✔ Accuracy of calculations  
+✔ Correct use of ₹ currency format  
+✔ Neat presentation with borders & alignment  
+✔ Highlighted **Net Salary column** for readability  

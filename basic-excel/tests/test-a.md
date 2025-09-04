@@ -1,4 +1,9 @@
-# 📊 Excel Test: Create an Invoice
+# 📊 Excel Test
+
+## Create an Invoice
+
+⏰ Time: 30 mins
+---
 
 ### 🎯 Goal
 
