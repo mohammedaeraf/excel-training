@@ -1,4 +1,4 @@
-## ✅ **Excel Test: Salary Sheet Calculation – April 2025**
+## ✅ **Excel Test: Salary Sheet Calculation – June 2025**
 
 ### **Time: 30 mins**
 
@@ -40,7 +40,6 @@ Using the data below, complete the Salary Sheet by calculating:
 ### 🎯 **Evaluation Criteria**:
 
 * Correctness of formulas
-* Use of absolute/mixed cell referencing where applicable
 * Proper formatting of currency columns with ₹ symbol
 * Neatness, alignment, and use of borders
 
