@@ -84,6 +84,12 @@ This gives total **Sales of CCTV in Udupi**.
 
 ### 📘 **AVERAGEIF Example**
 
+| Subject |            Average Score            |
+| :------ | :---------------------------------: |
+| Math    |  =AVERAGEIF(B2:B11,"Math",C2:C11)   |
+| Science | =AVERAGEIF(B2:B11,"Science",C2:C11) |
+| English | =AVERAGEIF(B2:B11,"English",C2:C11) |
+
 | Student | Subject | Score |
 | ------- | ------- | ----- |
 | Rahul   | Math    | 85    |
@@ -108,6 +114,13 @@ This calculates the **average Math score**.
 ---
 
 ### 🎓 **AVERAGEIFS Example**
+
+| Subject | Section |                Average Score                 |
+| :------ | :------ | :------------------------------------------: |
+| Math    | A       |  =AVERAGEIFS(D2:D9,B2:B9,"Math",C2:C9,"A")   |
+| Math    | B       |  =AVERAGEIFS(D2:D9,B2:B9,"Math",C2:C9,"B")   |
+| Science | A       | =AVERAGEIFS(D2:D9,B2:B9,"Science",C2:C9,"A") |
+| Science | B       | =AVERAGEIFS(D2:D9,B2:B9,"Science",C2:C9,"B") |
 
 | Student | Subject | Section | Score |
 | ------- | ------- | ------- | ----- |
