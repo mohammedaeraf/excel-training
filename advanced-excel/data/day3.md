@@ -2,6 +2,10 @@
 
 ### 🧮 **COUNTIFS Example**
 
+| Class | Status | No. of Students |
+| :---: | :----: | :-------------: |
+|   8   | Absent |                 |
+
 | Student | Class | Status  |
 | ------- | ----- | ------- |
 | Rahul   | 10    | Present |
@@ -27,6 +31,10 @@ This counts students in **Class 10** who are **Present**.
 
 ### 💰 **SUMIF Example**
 
+| Category    |         Total Price         |
+| :---------- | :-------------------------: |
+| Accessories | =SUMIF(B2:B11, B15, C2:C11) |
+
 | Product Name | Category    | Price (INR) |
 | ------------ | ----------- | ----------- |
 | Laptop       | Electronics | ₹ 50,000    |
@@ -51,6 +59,10 @@ This sums up prices of all **Electronics** products.
 ---
 
 ### 🏙️ **SUMIFS Example**
+
+| Product | Town  |             Total Sales              |
+| :------ | :---- | :----------------------------------: |
+| CCTV    | Udupi | =SUMIFS(C2:C6, B2:B6, E2, A2:A6, F2) |
 
 | Town    | Product | Sales |
 | ------- | ------- | ----- |
