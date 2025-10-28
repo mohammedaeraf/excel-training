@@ -1,0 +1,21 @@
+Customer Info,City
+Rahul Mehta - rahul@gmail.com - 9876543210,Mumbai
+Anita Desai - anita@gmail.com - 9823456789,Bengaluru
+Suresh Kumar - suresh@yahoo.com - 9876543210,Delhi
+Priya Sharma - priya@gmail.com - 9811122233,Chennai
+Amit Jain - amit@outlook.com - 9898989898,Hyderabad
+Meena Rao - meena@gmail.com - 9888877766,Pune
+Rajesh Verma - rajeshv@gmail.com - 9870012345,Delhi
+Anjali Menon - anjali.menon@gmail.com - 9845671234,Kochi
+Varun Patel - varunp@gmail.com - 9812312345,Ahmedabad
+Riya Kapoor - riya.kapoor@yahoo.com - 9876543222,Mumbai
+John Dsouza - john.d@gmail.com - 9855566677,Goa
+Sneha Iyer - sneha.iyer@gmail.com - 9823456789,Bengaluru
+Amit Jain - amit@outlook.com - 9898989898,Hyderabad
+Priya Sharma - priya@gmail.com - 9811122233,Chennai
+Rahul Mehta - rahul@gmail.com - 9876543210,Mumbai
+Deepak Nair - deepak.nair@gmail.com - 9834567890,Trivandrum
+Anita Desai - anita@gmail.com - 9823456789,Bengaluru
+Karan Singh - karan.singh@yahoo.com - 9845011122,Jaipur
+Nisha George - nisha.g@gmail.com - 9867788990,Kochi
+Suresh Kumar - suresh@yahoo.com - 9876543210,Delhi
