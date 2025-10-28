@@ -1,0 +1,30 @@
+First Name	Last Name	Email
+Rahul	Shetty	rahul.shetty@aitm.com
+Priya	Mehra	
+Anil	Kumar	
+Sneha	Reddy	
+Varun	Shah	
+
+
+Full Name	First Name	Last Name
+Rahul Mehta	Rahul	Mehta
+Anita Desai		
+Suresh Kumar		
+Priya Sharma		
+Amit Jain		
+
+
+Email	Username
+rahul.mehta@gmail.com	rahul.mehta
+anita.desai@yahoo.com	
+suresh.kumar@outlook.com	
+priya.sharma@gmail.com	
+amit.jain@zoho.com	
+
+
+Raw Number	Formatted Number
+9876543210	9876-543-210
+9823456789	
+9811122233	
+9898989898	
+9888877766	
