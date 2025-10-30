@@ -1,4 +1,4 @@
-## 📘 **Assignment 03: VLOOKUP with Named Ranges**
+## 📘 **Assignment 08: VLOOKUP with Named Ranges**
 
 ### 🎯 Objective:
 
