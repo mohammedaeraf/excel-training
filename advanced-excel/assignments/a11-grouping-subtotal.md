@@ -2,7 +2,7 @@
 
 ### 📊 **Objective:**
 
-Understand how to organize large datasets using **Grouping**, **Ungrouping**, and how to compute **Subtotals** automatically within categorized data.
+Learn to organize large datasets by **Grouping** and **Ungrouping** related data, and compute **Subtotals** for different product categories to summarize sales performance.
 
 ---
 
@@ -10,38 +10,40 @@ Understand how to organize large datasets using **Grouping**, **Ungrouping**, an
 
 #### ✅ **Part 1: Grouping & Ungrouping**
 
-1. Use the data below and insert it into an Excel sheet.
-2. Group the data by **Region**.
-3. Collapse and expand the groups using the Outline symbols ( + / - ) on the left.
+1. Use the **data below** and insert it into an Excel sheet.
+2. **Group the data by Category** (e.g., Electronics, Furniture, Groceries).
+3. Collapse and expand groups using the outline symbols **( + / - )** on the left side of the sheet.
 4. Practice **Ungrouping** the data back.
-
-#### ✅ **Part 2: Subtotals**
-
-5. **Sort** the data by **Region** (A to Z).
-6. Use the **Subtotal** tool to:
-
-   * Add **Subtotal** for **Sales Amount** for each Region.
-   * Display **Grand Total** at the bottom.
-7. Try **changing** the summary function to **Average** and observe the difference.
-8. Add a second-level grouping by **Month** within each Region (Optional Advanced Task).
 
 ---
 
-### 📇 **Sample Data:**
+#### ✅ **Part 2: Subtotals**
 
-| Region | Salesperson | Month | Sales Amount |
-| ------ | ----------- | ----- | ------------ |
-| North  | Anil        | Jan   | 50000        |
-| North  | Meena       | Jan   | 42000        |
-| North  | Rahul       | Jan   | 47000        |
-| South  | Sunita      | Jan   | 55000        |
-| South  | Vijay       | Jan   | 48000        |
-| South  | Kiran       | Jan   | 53000        |
-| East   | Farah       | Jan   | 39000        |
-| East   | Kumar       | Jan   | 41000        |
-| West   | Sanjay      | Jan   | 46000        |
-| West   | Deepa       | Jan   | 45000        |
-| North  | Ravi        | Feb   | 52000        |
-| South  | Lakshmi     | Feb   | 56000        |
-| East   | Alok        | Feb   | 43000        |
-| West   | Rita        | Feb   | 47000        |
+5. **Sort** the data by **Category (A to Z)**.
+6. Use the **Subtotal** feature to:
+
+   * Add **Subtotal for Total Sales** for each Category.
+   * Display a **Grand Total** at the bottom.
+7. Change the summary function to **Average** and note how it affects the results.
+8. (Optional Advanced Task) Add a second-level grouping by **Month** inside each Category.
+
+---
+
+### 🛍️ **Sample Data: Retail Store Sales**
+
+| Category    | Product Name       | Month | Total Sales (₹) |
+| ----------- | ------------------ | ----- | --------------: |
+| Electronics | Laptop             | Jan   |          85,000 |
+| Electronics | Headphones         | Jan   |           7,500 |
+| Electronics | Smartphone         | Jan   |          65,000 |
+| Electronics | Laptop             | Feb   |          90,000 |
+| Electronics | Headphones         | Feb   |           8,200 |
+| Furniture   | Office Chair       | Jan   |          12,500 |
+| Furniture   | Study Table        | Jan   |          18,000 |
+| Furniture   | Sofa Set           | Feb   |          42,000 |
+| Furniture   | Office Chair       | Feb   |          14,200 |
+| Groceries   | Rice Bag (10kg)    | Jan   |           1,500 |
+| Groceries   | Cooking Oil (5L)   | Jan   |           1,200 |
+| Groceries   | Wheat Flour (10kg) | Jan   |           1,400 |
+| Groceries   | Rice Bag (10kg)    | Feb   |           1,700 |
+| Groceries   | Cooking Oil (5L)   | Feb   |           1,300 |
