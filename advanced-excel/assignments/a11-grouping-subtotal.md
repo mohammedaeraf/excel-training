@@ -1,4 +1,4 @@
-## 📝 **Assignment 07: Grouping, Ungrouping & Subtotals in Excel**
+## 📝 **Assignment 11: Grouping, Ungrouping & Subtotals in Excel**
 
 ### 📊 **Objective:**
 
@@ -45,12 +45,3 @@ Understand how to organize large datasets using **Grouping**, **Ungrouping**, an
 | South  | Lakshmi     | Feb   | 56000        |
 | East   | Alok        | Feb   | 43000        |
 | West   | Rita        | Feb   | 47000        |
-
----
-
-### 💡 **Expected Learning Outcomes:**
-
-* Ability to group and manage large data sets effectively.
-* Understanding of automatic subtotal calculation by category.
-* Familiarity with Excel’s outline view and subtotal dialog.
-

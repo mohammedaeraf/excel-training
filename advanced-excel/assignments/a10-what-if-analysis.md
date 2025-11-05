@@ -1,4 +1,4 @@
-## 📘 **Assignment 06: What-If Analysis – Monthly Savings Plan**
+## 📘 **Assignment 10: What-If Analysis – Monthly Savings Plan**
 
 ### 🎯 **Objective:**
 
