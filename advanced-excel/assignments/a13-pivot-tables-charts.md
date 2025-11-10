@@ -1,4 +1,4 @@
-## 📘 **Assignment 09: Analyze Sales Data Using Pivot Tables**
+## 📘 **Assignment 13: Analyze Sales Data Using Pivot Tables**
 
 ### 🎯 Objective:
 
@@ -66,14 +66,3 @@ Use the file **`Retail_Sales_PivotTable_Demo.xlsx`** provided in class. It conta
 
   - `Region Sales`, `Product by Region`, `Slicer`, `Monthly Sales`, `Pivot Chart`
 
----
-
-### 💡 Tips:
-
-- Right-click on any **date value** in Pivot Table to group by **Months/Years**.
-- Use the **Design** tab to make Pivot Tables look clean and professional.
-- You can refresh Pivot Tables if you update the source data.
-
----
-
-Let me know if you’d like a quiz or evaluation rubric based on this assignment too.

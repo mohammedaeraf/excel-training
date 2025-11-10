@@ -1,0 +1,101 @@
+Date,Region,Salesperson,Product,Category,Units Sold,Unit Price,Total Sales
+30-May-2024,West,Karan Patel,Sofa Set,Furniture,4,4554,18216
+21-Jun-2024,South,Amit Roy,Webcam,Electronics,10,71936,719360
+23-Jan-2024,South,Priya Sharma,Keyboard,Accessories,10,10814,108140
+10-Feb-2024,East,Deepak Rao,Keyboard,Accessories,7,12874,90118
+14-Apr-2024,North,Karan Patel,Sofa Set,Furniture,6,18920,113520
+14-Mar-2024,North,Arjun Mehta,Sofa Set,Furniture,8,46761,374088
+08-Apr-2024,East,Meena George,Sofa Set,Furniture,6,59639,357834
+01-Feb-2024,West,Meena George,Laptop,Electronics,5,16216,81080
+09-Apr-2024,North,Amit Roy,Mouse,Accessories,4,42214,168856
+24-Jan-2024,East,Arjun Mehta,Sofa Set,Furniture,6,41236,247416
+20-Jan-2024,East,Amit Roy,Desk Chair,Furniture,3,44064,132192
+24-Apr-2024,South,Priya Sharma,Keyboard,Accessories,8,37783,302264
+31-Mar-2024,South,Karan Patel,Monitor,Electronics,3,14764,44292
+24-Apr-2024,South,Meena George,Webcam,Electronics,8,61641,493128
+24-May-2024,South,Meena George,Sofa Set,Furniture,2,56266,112532
+28-Mar-2024,North,Deepak Rao,Webcam,Electronics,9,8272,74448
+01-Jan-2024,North,Deepak Rao,Laptop,Electronics,8,19389,155112
+15-Apr-2024,South,Karan Patel,Desk Chair,Furniture,8,54092,432736
+28-Jan-2024,North,Arjun Mehta,Projector,Electronics,4,66185,264740
+15-Jun-2024,North,Karan Patel,Webcam,Electronics,2,43790,87580
+14-Feb-2024,North,Meena George,Desk Chair,Furniture,7,39993,279951
+26-Mar-2024,South,Nisha Verma,Keyboard,Accessories,4,68855,275420
+07-Mar-2024,West,Priya Sharma,Monitor,Electronics,6,55995,335970
+21-Apr-2024,South,Rahul Singh,Projector,Electronics,9,28815,259335
+22-May-2024,East,Karan Patel,Monitor,Electronics,9,26553,238977
+19-Apr-2024,West,Deepak Rao,Sofa Set,Furniture,4,9205,36820
+24-Apr-2024,East,Sneha Iyer,Router,Electronics,1,21293,21293
+01-Feb-2024,South,Deepak Rao,Sofa Set,Furniture,4,19341,77364
+23-Apr-2024,North,Rahul Singh,Sofa Set,Furniture,1,42996,42996
+03-May-2024,South,Priya Sharma,Laptop,Electronics,2,47342,94684
+15-Jun-2024,East,Amit Roy,Monitor,Electronics,10,20930,209300
+06-Apr-2024,West,Meena George,Monitor,Electronics,10,79499,794990
+18-Apr-2024,South,Rahul Singh,Monitor,Electronics,8,14084,112672
+25-Feb-2024,West,Rahul Singh,Printer,Electronics,7,5334,37338
+02-Mar-2024,East,Meena George,Monitor,Electronics,8,57245,457960
+24-Jun-2024,West,Meena George,Webcam,Electronics,5,69302,346510
+12-Jan-2024,West,Sneha Iyer,Sofa Set,Furniture,2,18803,37606
+11-May-2024,South,Amit Roy,Laptop,Electronics,2,71544,143088
+16-Feb-2024,South,Nisha Verma,Keyboard,Accessories,7,11775,82425
+14-Jan-2024,East,Meena George,Webcam,Electronics,6,11764,70584
+05-Jun-2024,North,Arjun Mehta,Router,Electronics,9,60664,545976
+03-Feb-2024,East,Karan Patel,Printer,Electronics,2,36060,72120
+20-Jun-2024,North,Karan Patel,Printer,Electronics,5,1403,7015
+03-Jan-2024,North,Arjun Mehta,Projector,Electronics,1,20642,20642
+11-Mar-2024,South,Arjun Mehta,Laptop,Electronics,8,17486,139888
+24-Jun-2024,West,Deepak Rao,Laptop,Electronics,3,39023,117069
+07-Jan-2024,West,Deepak Rao,Laptop,Electronics,2,37841,75682
+26-Apr-2024,West,Karan Patel,Router,Electronics,4,35661,142644
+02-Feb-2024,West,Nisha Verma,Desk Chair,Furniture,2,17953,35906
+21-Apr-2024,West,Sneha Iyer,Sofa Set,Furniture,3,57600,172800
+19-May-2024,West,Deepak Rao,Desk Chair,Furniture,5,36753,183765
+18-Jun-2024,North,Farah Khan,Sofa Set,Furniture,1,49057,49057
+14-Apr-2024,South,Sneha Iyer,Webcam,Electronics,5,9271,46355
+24-Mar-2024,West,Rahul Singh,Projector,Electronics,7,44266,309862
+30-Jan-2024,West,Priya Sharma,Projector,Electronics,8,21805,174440
+26-May-2024,East,Arjun Mehta,Keyboard,Accessories,9,35220,316980
+18-Mar-2024,West,Arjun Mehta,Printer,Electronics,7,45237,316659
+03-Apr-2024,East,Farah Khan,Mouse,Accessories,2,60158,120316
+01-Jan-2024,North,Arjun Mehta,Printer,Electronics,5,34077,170385
+15-Jun-2024,East,Karan Patel,Webcam,Electronics,3,50852,152556
+27-Jan-2024,South,Deepak Rao,Desk Chair,Furniture,1,17402,17402
+17-Feb-2024,West,Priya Sharma,Keyboard,Accessories,7,55805,390635
+10-Feb-2024,East,Deepak Rao,Webcam,Electronics,5,6910,34550
+02-Mar-2024,South,Sneha Iyer,Sofa Set,Furniture,10,29883,298830
+06-Jan-2024,East,Deepak Rao,Printer,Electronics,1,65578,65578
+12-Feb-2024,South,Deepak Rao,Monitor,Electronics,5,4932,24660
+19-Jun-2024,West,Sneha Iyer,Mouse,Accessories,1,49431,49431
+19-Feb-2024,North,Meena George,Router,Electronics,2,55380,110760
+02-Feb-2024,North,Karan Patel,Router,Electronics,1,57877,57877
+15-May-2024,East,Nisha Verma,Keyboard,Accessories,2,17593,35186
+19-Jan-2024,West,Sneha Iyer,Mouse,Accessories,8,55708,445664
+06-Feb-2024,North,Deepak Rao,Sofa Set,Furniture,6,55802,334812
+19-Jun-2024,West,Farah Khan,Mouse,Accessories,8,44816,358528
+13-Mar-2024,West,Arjun Mehta,Keyboard,Accessories,3,36947,110841
+08-Apr-2024,South,Amit Roy,Laptop,Electronics,3,60388,181164
+07-Apr-2024,West,Farah Khan,Laptop,Electronics,4,30875,123500
+20-May-2024,East,Priya Sharma,Mouse,Accessories,9,29602,266418
+14-May-2024,North,Deepak Rao,Laptop,Electronics,1,61462,61462
+07-Mar-2024,South,Priya Sharma,Monitor,Electronics,4,24719,98876
+22-Feb-2024,West,Karan Patel,Mouse,Accessories,8,35144,281152
+13-Jan-2024,East,Rahul Singh,Router,Electronics,4,40054,160216
+10-Apr-2024,West,Sneha Iyer,Webcam,Electronics,3,36987,110961
+29-Jan-2024,West,Karan Patel,Webcam,Electronics,7,33436,234052
+29-Mar-2024,West,Karan Patel,Webcam,Electronics,6,67393,404358
+03-May-2024,West,Sneha Iyer,Router,Electronics,5,31428,157140
+17-Mar-2024,North,Nisha Verma,Monitor,Electronics,1,43119,43119
+22-Feb-2024,West,Meena George,Router,Electronics,4,17905,71620
+24-Feb-2024,South,Amit Roy,Desk Chair,Furniture,9,8053,72477
+06-May-2024,West,Rahul Singh,Projector,Electronics,6,48971,293826
+04-Jan-2024,South,Farah Khan,Projector,Electronics,8,8726,69808
+16-Apr-2024,South,Deepak Rao,Router,Electronics,2,19289,38578
+07-Mar-2024,North,Amit Roy,Laptop,Electronics,1,21708,21708
+29-May-2024,West,Nisha Verma,Laptop,Electronics,6,40894,245364
+05-Apr-2024,South,Nisha Verma,Printer,Electronics,5,3923,19615
+28-Jun-2024,South,Arjun Mehta,Monitor,Electronics,8,41609,332872
+04-May-2024,East,Nisha Verma,Webcam,Electronics,9,19225,173025
+01-Mar-2024,North,Nisha Verma,Monitor,Electronics,3,67534,202602
+11-Mar-2024,East,Arjun Mehta,Router,Electronics,9,34705,312345
+09-Feb-2024,North,Meena George,Sofa Set,Furniture,7,68544,479808
+08-Jan-2024,South,Sneha Iyer,Router,Electronics,6,10847,65082
